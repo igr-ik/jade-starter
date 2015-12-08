@@ -9,6 +9,7 @@
     "grunt-contrib-jade": "0.8.x",
     "grunt-contrib-uglify": "0.2.x",
     "grunt-contrib-watch": "0.5.x",
+    "grunt-contrib-concat" : "*",
     "jade": "^1.11.0"
   },
   "engine": "node >= 0.12"
